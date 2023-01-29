@@ -1,0 +1,14 @@
+﻿  Word On The Street.cpp
+C:\Users\hadia\source\repos\Word On The Street\Customer.h(7,14): error C3646: 'phone': unknown override specifier
+C:\Users\hadia\source\repos\Word On The Street\Customer.h(7,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hadia\source\repos\Word On The Street\Customer.h(8,16): error C3646: 'address': unknown override specifier
+C:\Users\hadia\source\repos\Word On The Street\Customer.h(8,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hadia\source\repos\Word On The Street\Service.h(7,16): error C3646: 'UPCcode': unknown override specifier
+C:\Users\hadia\source\repos\Word On The Street\Service.h(7,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hadia\source\repos\Word On The Street\Service.h(8,18): error C3646: 'timeofday': unknown override specifier
+C:\Users\hadia\source\repos\Word On The Street\Service.h(8,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hadia\source\repos\Word On The Street\Word On The Street.cpp(40,16): error C2040: 'phone': 'std::string [3]' differs in levels of indirection from 'std::string'
+C:\Users\hadia\source\repos\Word On The Street\Word On The Street.cpp(41,24): error C2088: '[': illegal for class
+C:\Users\hadia\source\repos\Word On The Street\Word On The Street.cpp(43,16): error C2040: 'address': 'std::string [3]' differs in levels of indirection from 'std::string'
+C:\Users\hadia\source\repos\Word On The Street\Word On The Street.cpp(44,26): error C2088: '[': illegal for class
+C:\Users\hadia\source\repos\Word On The Street\Word On The Street.cpp(70,1): error C2447: '{': missing function header (old-style formal list?)
